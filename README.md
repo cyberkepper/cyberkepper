@@ -6,7 +6,7 @@ Mi nombre es Alex Grande, soy de España, programador web, devOps, técnico info
 - 🌱 Actualmente sigo formándome como programador senior y cyberseguridad.
 
 ## Skills
----
+
 - Docker, Kubernetes
 - Javascript, Angular, React, NodeJs, PHP
 - Microservicios y restApi 
@@ -16,16 +16,16 @@ Mi nombre es Alex Grande, soy de España, programador web, devOps, técnico info
 - Montaje de redes, ordenadores profesional.
 
 ## Próximamente
----
+
 - Estudiando para la certificación OSCP
 
 ## Proyectos
----
+
 - He realizado apróximadamente unas 300 webs completas en mi carrera profesional, entre ellas destaca www.rafanadalacademy.com y www.admefy.com
 - Durante 15 Años he realizado mantenimiento de los equipos informáticos del Aeropuerto de Ibiza y su red de telecomunicaciones interna. 
 
 ## Empresas
----
+
 - Actualmente trabajo desarrollando Admefy anteriormente he trabajado en Neobookings, Indra, Ikusi, T-System, Bull España, Link Informática y DataSystem, también he dado clases de informática para el Consell de Ibiza y para la Fundación La Caixa.
 
 ## Web personal
