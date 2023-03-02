@@ -15,10 +15,6 @@ Mi nombre es Alex Grande, soy de España, programador web, devOps, técnico info
 - Pentester
 - Montaje de redes, ordenadores profesional.
 
-## Próximamente
-
-- Estudiando para la certificación OSCP
-
 ## Proyectos
 
 - He realizado apróximadamente unas 300 webs completas en mi carrera profesional, entre ellas destaca www.rafanadalacademy.com y www.admefy.com
