@@ -24,5 +24,3 @@ Mi nombre es Alex Grande, soy de España, programador web, devOps, técnico info
 
 - Actualmente trabajo desarrollando Admefy anteriormente he trabajado en Neobookings, Indra, Ikusi, T-System, Bull España, Link Informática y DataSystem, también he dado clases de informática para el Consell de Ibiza y para la Fundación La Caixa.
 
-## Web personal
-www.cybermatica.com
