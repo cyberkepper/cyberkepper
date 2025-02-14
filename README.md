@@ -41,3 +41,4 @@ Y realicé multitud de cursos de desarrollo de aplicaciones web, entre los que d
 ## Contacto
 Si quieres contactar conmigo puedes dejarme tu mensaje vía [Linkedin](https://www.linkedin.com/in/cybermatica/) si me interesa tu oferta te contestaré. Gracias.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cyberkepper)](https://github.com/ryo-ma/github-profile-trophy)
