@@ -1,7 +1,7 @@
 ### Alex Grande - Cybermatica - Confibook 👋
 ---
 
-Soy un apasionado de la tecnología con más de 15 años de experiencia en el sector IT, especializado en desarrollo web full-stack y ciberseguridad.
+Soy un apasionado de la tecnología con más de 25 años de experiencia en el sector IT, especializado en desarrollo web full-stack y ciberseguridad.
 
 Mi trayectoria comenzó en el mundo del hardware y redes, gestionando la infraestructura tecnológica del Aeropuerto de Ibiza. Esta experiencia me proporcionó una base sólida que posteriormente complementé con el desarrollo de software, creando más de 300 proyectos web.
 
